@@ -1,3 +1,12 @@
+##############################################################
+
+This is a solution to a small app challenge called "Light App". 
+App needs to have button, it should be Green initially. 
+With each click on the button it moves to the next color in the
+sequence of Yellow, Red, then Green.
+
+##############################################################
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
