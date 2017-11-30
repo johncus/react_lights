@@ -5,6 +5,12 @@ App needs to have button, it should be Green initially.
 With each click on the button it moves to the next color in the
 sequence of Yellow, Red, then Green.
 
+To run this app from terminal:
+
+$ npm install
+
+$ npm start
+
 ##############################################################
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
